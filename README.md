@@ -49,7 +49,7 @@ Once connected, the eQuarium app allows you to:
 
 ## Learn More
 
-For complete installation and troubleshooting, see the [Installation Guide](docs/equarium-super-probe-installation.md).
+For complete installation and troubleshooting, see the [Installation Guide](equarium-super-probe-installation.md).
 
 ## Support
 
