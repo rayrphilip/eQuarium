@@ -12,9 +12,9 @@ Welcome to the eQuarium ecosystem — a powerful and intelligent solution for mo
 
 - eQuarium Super Probe and Power Bar
 - USB Camera (USB 2.0, 1080p recommended)
-- Aquarium hardware (heater, light, pump, etc.)
-- eQuarium mobile/web app
+- eQuarium mobile app
 - WiFi (2.4 GHz)
+- **Optional:** Aquarium hardware (heater, light, pump, etc.)
 
 ## Quick Installation
 
@@ -49,7 +49,7 @@ Once connected, the eQuarium app allows you to:
 
 ## Learn More
 
-For complete installation and troubleshooting, see the [Installation Guide](docs/installation_guide.md).
+For complete installation and troubleshooting, see the [Installation Guide](docs/equarium-super-probe-installation.md).
 
 ## Support
 
