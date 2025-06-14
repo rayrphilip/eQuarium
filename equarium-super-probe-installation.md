@@ -288,7 +288,7 @@ You can perform some tests to ensure your devices are working properly and are c
 
 ### Notifications Not Triggering
 
-- Check notifications thresholds in Home > Notificaations (e.g., "Notify me when the temperature of the tank leaves the ideal range")
+- Check notifications thresholds in Home > Notifications (e.g., "Notify me when the temperature of the tank leaves the ideal range")
 - Test by changing a parameter (e.g., set temperature to 1°C above or below the ideal range)
 
 ```
