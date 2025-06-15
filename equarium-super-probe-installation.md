@@ -28,17 +28,17 @@ This document provides step-by-step instructions for installing and attaching th
 
 ## Super Probe Inspection
 
-The Super Probe is a small, cylindrical device with four sensors attached to a cable, used to monitor your aquarium’s water conditions.
+The Super Probe is a small, water-proof device with four sensors attached to a cable, used to monitor your aquarium’s water conditions.
 
 ### 1. Open the Super Probe Package
 
 - Carefully cut open the box labeled **eQuarium Super Probe** using scissors or a box cutter
-- Remove the probe and any protective foam or plastic wrapping
+- Remove the probe along with any protective foam and plastic wrapping
 
 ### 2. Verify the Four Sensors
 
-- Look at the probe's body, you should see four distinct sensor tips:
-    - **Temperature Sensor**: A small metal tip, often shiny, for measuring water temperature
+- Look at the probe, you should see four distinct sensor tips:
+    - **Temperature Sensor**: A small metal tip, often shiny
     - **pH Sensor**: A plastic tip, usually labeled “pH,” for checking water acidity
     - **Water Level Sensor**: A small optical or ultrasonic sensor (may look like a tiny lens) for measuring water height
     - **Toxicity Sensor**: A specialized tip (often labeled "NH3" or "ORP") for detecting harmful substances like ammonia
@@ -72,15 +72,15 @@ The Power Bar is a rectangular unit with 8 power outlets to control aquarium dev
 
 - Check the Power Bar for:
     - **8 Outlets**: Look at the top for eight standard 120V AC sockets (like those on a power strip)
-    - **Super Probe Part**: Find the labeled port *Super Probe* for the RJ45 connector
-    - **USB Port**: Located a standard USB-A port for the camera
+    - **Super Probe Port**: Find the labeled port *Super Probe* for the RJ45 connector
+    - **USB Port**: A standard USB-A port for the camera
     - **Power Cord**: Ensure a 120V AC plug is included (similar to a laptop charger)
     - **LED Indicators**: Check for small lights near the outlets (may be off until powered)
 
 ### 3. Inspect for Damage
 
 - Check for any dents, scratches, or loose outlets/ports
-- Confirm the enclosure feels solid and has a label or marking indicating **IP65** (meaning it’s water-resistant)
+- Confirm the enclosure feels solid and has a label or marking indicating **IPX5** (meaning it’s water-resistant)
 - If any part is damaged, missing or the enclosure is cracked, contact support@equarium.com
 
 ## USB Camera Inspection
@@ -216,7 +216,7 @@ You can perform some tests to ensure your devices are working properly and are c
 
 ### 1. Super Probe
 
-- In the app, tap "Home > Temperature" and increase the temperature of the tank 1°C by sliding your finger on the wheel in an upwards motion until the temperature increasaes by 1
+- In the app, tap "Home > Temperature" and increase the temperature of the tank 1°C by sliding your finger on the wheel in an upwards motion until the temperature increases by 1
 - Check your aquarium to see if the heater turned on
 
 ### 2. Power Bar
