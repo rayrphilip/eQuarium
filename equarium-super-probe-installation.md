@@ -2,7 +2,7 @@
 
 ## Overview
 
-This document provides step-by-step instructions for installing and attaching the eQuarium Super Probe and Power Bar to automate and monitor an aquarium. The Super Probe measures temperature, pH, water level and toxicity. The Power Bar controls up to eight devices, connects to the eQuarium app via WiFi and supports a USB camera for live streaming for live streaming.
+This document provides step-by-step instructions for installing and attaching the eQuarium Super Probe and Power Bar to automate and monitor an aquarium. The Super Probe measures temperature, pH, water level and toxicity. The Power Bar controls up to eight devices, connects to the eQuarium app via WiFi and supports a USB camera for live streaming.
 
 ## Prerequisites
 
