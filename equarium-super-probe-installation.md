@@ -18,7 +18,7 @@ This document provides step-by-step instructions for installing and attaching th
     - **Clean cloth and distilled water** (for probe cleaning)
 
 - ### Software
-    - **eQuarium app** (web-based or mobile, available on the App Store/Google Play Store)
+    - **eQuarium mobile app** (available on the App Store/Google Play Store)
     - **WiFi network**
 
 - ### Safety
